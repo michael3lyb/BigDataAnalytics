@@ -1,0 +1,3 @@
+[submodule "lorelei/wikipedia/wikiextractor"]
+	path = lorelei/wikipedia/wikiextractor
+	url = https://github.com/attardi/wikiextractor.git

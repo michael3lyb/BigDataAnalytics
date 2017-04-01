@@ -1,0 +1,9 @@
+env/
+CC-MAIN*
+__pycache__/
+*.pyc
+**/.ipynb_checkpoints/
+
+**/derby.log
+**/metastore_db/
+

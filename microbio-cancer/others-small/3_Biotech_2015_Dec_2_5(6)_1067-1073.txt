@@ -1,0 +1,243 @@
+
+==== Front
+3 Biotech3 Biotech3 Biotech2190-572X2190-5738Springer Berlin Heidelberg Berlin/Heidelberg 30810.1007/s13205-015-0308-3Original ArticleStatistical optimization of process parameters for exopolysaccharide production by Aureobasidium pullulans using sweet potato based medium Padmanaban Sethuraman Balaji Nagarajan Muthukumaran Chandrasekaran Tamilarasan Krishnamurthi tamilbio@gmail.com  Department of Biotechnology, Madha Engineering College, Kundrathur, Chennai, 600069 Tamilnadu India  Department of Industrial Biotechnology, Government College of Technology, Coimbatore, 641013 Tamilnadu India  Department of Chemical Engineering, School of Bioengineering, SRM University, Kattankulathur, Chennai, 603203 Tamilnadu India 2 6 2015 2 6 2015 12 2015 5 6 1067 1073 28 10 2014 12 5 2015 © The Author(s) 2015
+Open AccessThis article is distributed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made.Statistical experimental designs were applied to optimize the fermentation medium for exopolysaccharide (EPS) production. Plackett–Burman design was applied to identify the significance of seven medium variables, in which sweet potato and yeast extract were found to be the significant variables for EPS production. Central composite design was applied to evaluate the optimum condition of the selected variables. Maximum EPS production of 9.3 g/L was obtained with the predicted optimal level of sweet potato 10 %, yeast extract 0.75 %, 5.5 pH, and time 100 h. The determined (R2) value was 0.97, indicating a good fitted model for EPS production. Results of this study showed that sweet potato can be utilized as a low-cost effective substrate for pullulan production in submerged fermentation.
+
+Keywords
+Sweet potatoExopolysaccharideResponse surface methodologyCentral composite designissue-copyright-statement© King Abdulaziz City for Science and Technology 2015
+==== Body
+Introduction
+Biopolymers produced by a wide variety of microorganisms which are generally water soluble gums having novel and unique physical properties. Polysaccharides have found a wide range of applications in the food, pharmaceutical, and other industries. Typical industrial uses of EPS are as food coatings and packaging material due to its good film-forming properties similar to those of polyvinyl alcohol. Pullulan is used as an adhesive in the form of paste with water, as a construction material with fibers similar in strength and elasticity to those in nylon and as a bulking agent and stabilizer for tablets in the pharmaceutical industry (Deshpande et al. 1992). Many researchers have optimized the production conditions for exopolysaccharide (EPS) in submerged culture by Fomes fomentarius (Chen et al. 2008), Tremella fuciformis (Cho et al. 2006), Pholiota squarrosa (Wang et al. 2004), Agrocybe cylindracea (Kim et al. 2005), Collybia maculate (Lim et al. 2004), Cordyceps jiangxiensis (Xiao et al. 2004), Cordyceps militaris (Kim et al. 2003), Aureobasidium pullulans (Moubasher and Wahsh 2014), and Tremella mesenterica (De Baets et al. 2002).
+
+
+For a wide application, the cost of medium components is one of the main factors determining the economics of a process. In the literature, several agro-based products were utilized as low-cost substrate in the medium for economic production of pullulan through fermentation process (Srikanth et al. 2014; Sharmila et al. 2013a; Goksungur et al. 2011; Wu et al. 2009). In this study, sweet potato was used as an alternative low-cost carbon source for pullulan production.
+
+Statistical experimental designs such as Plackett–Burman (BP) design and response surface methodology (RSM) are successfully employed to screen and optimize the process parameters in bioprocess field (Sharmila et al. 2013b). RSM, an experimental strategy for seeking the optimum conditions for a multivariable system, is a much more efficient technique for optimization (Alok et al. 2013; Aarthi and Karna 2012; Baskar and Renganathan 2012; Zhou et al. 2013; Mayur et al. 2013). Central composite design (CCD) is widely employed for bioprocess optimization studies and it can give information about the interaction between variables, provide information necessary for design and process optimization. The aim of the present work is to screen and optimize the process variables for EPS production from A. pullulans MTCC 2195 using statistical techniques.
+
+Materials and methods
+Microorganism and chemicals
+Aureobasidium pullulans MTCC 2195 was obtained from Microbial Type Culture Collection and Gene Bank, Institute of Microbial Technology (IMTECH), India. Sucrose and yeast extract purchased from HiMedia Laboratories Pvt Ltd, (Mumbai, India). KH2PO4, MgSO4·7H2O, and NaCl were purchased from Qualigens fine chemicals. ZnSO4·7H2O and CuSO4·5H2O were procured from Loba Chemie. All the media components were of analytical grade, and solvents were purchased from Merck.
+
+Inoculum and substrate preparation
+Inoculum was prepared by transferring a loopful of stock culture to the growth medium. Growth medium contains (w/v) sucrose 5 %, yeast extract 0.2 %, KH2PO4 0.5 %, MgSO4.7H2O 0.02 %, and NaCl 0.1 %. The cultivation was performed at 35 °C for 3 days. Sweet potato was obtained from the local market in Chennai. It was ground into powder with a blender and passed through a sieve (80/100 mesh size) to remove large-sized particles, and the fine sweet potato powder was used for further studies.
+
+Fermentation conditions
+Aureobasidium pullulans was inoculated in a production media containing (w/v) sweet potato 10 %, yeast extract 0.5 %, (NH4)2SO4 0.4 %, NaNO3 0.4 %, NaCl 0.2 %, KH2PO4 0.2 %, MgSO4·7H2O 0.2 %, ZnSO4·7H2O 0.05 %, and CuSO4·5H2O 0.05 %, of pH 5.5. Fermentation at 35 °C for 120 h under shaking at 120 rpm with 2 % inoculum was performed. Five milliliters of the culture was taken at 120 h, and the culture was centrifuged at 14,000×g, 4 °C for 20 min. The culture supernatant was used for EPS precipitation.
+
+Estimation of exopolysaccharide
+Supernatant fluid was mixed with three volumes of 95 % ethanol, stirred vigorously, and incubated at 4 °C for 24 h to precipitate the polysaccharide, which was separated by centrifugation at 14,000×g for 20 min and dried at 90 °C for 12 h (Wu et al. 2009). The EPS concentration was expressed as milligram per milliliter.
+
+Plackett–Burman design
+Plackett–Burman design is used to screen the significant media components from large number of variables with minimum number of experiments (Plackett and Burman, 1946). This is a very economical factorial design with the run number a multiple of four and comprises two-level screening designs (Cupul et al. 2014). This design is extremely useful in screening importance of the factors affecting the production of polymer (Wang et al. 2014). This model describes no interaction among the factors that influences EPS production. Twelve experimental run was carried out to study the effect of seven medium components for EPS production. All the factors are prepared at two levels “−1” for low level and “+1” for high level. The seven factors, sweet potato, yeast extract, NH4SO4, NaNO3, NaCl, KH2PO4, and MgSO4, were studied on EPS production. ZnSO4·7H2O and CuSO4·5H2O were used as dummy variables. Table 1 shows the factors considered for investigation, and twelve experimental runs were carried out for EPS production. The fermentation was carried out for 120 h at 35 °C and 120 rpm.Table 1 Plackett–Burman experimental design for screening of media components for EPS production
+
+Std. order	Media components, (w/v) (%)	EPS (g/L)	
+A	B	C	D	E	F	G	
+1	15	0.5	0.6	0.3	0.1	0.1	0.3	7.2	
+2	15	1.0	0.3	0.6	0.1	0.1	0.1	7.5	
+3	5	1.0	0.6	0.3	0.3	0.1	0.1	4.0	
+4	15	0.5	0.6	0.6	0.1	0.3	0.1	6.8	
+5	15	1.0	0.3	0.6	0.3	0.1	0.3	8.0	
+6	15	1.0	0.6	0.3	0.3	0.3	0.1	9.0	
+7	5	1.0	0.6	0.6	0.1	0.3	0.3	4.0	
+8	5	0.5	0.6	0.6	0.3	0.1	0.3	2.0	
+9	5	0.5	0.3	0.6	0.3	0.3	0.1	3.0	
+10	15	0.5	0.3	0.3	0.3	0.3	0.3	6.8	
+11	5	1.0	0.3	0.3	0.1	0.3	0.3	4.5	
+12	5	0.5	0.3	0.3	0.1	0.1	0.1	3.0	
+
+
+Central composite design
+Central composite design developed by the Minitab 14 software was used to optimize the condition of the screened variables sweet potato, yeast extract, pH, and time. Other components of the medium were (w/v) (NH4)2SO4 0.4 %, NaNO3 0.4 %, NaCl 0.2 %, KH2PO4 0.2 %, MgSO4.7H2O 0.2 %, ZnSO4·7H2O 0.05 %, and CuSO4·5H2O 0.05 % maintained as constant. Each factor in the design was studied at three levels. The minimum and maximum range of variables investigated and their values in actual and coded form are listed in Table 2. Experimental design includes 31 runs, and fermentation was carried out separately for each with replicates. The EPS concentration was taken as the dependent variable or response (Y). Regression analysis was performed on the data obtained. This resulted in an empirical model that related the response measured to the independent variables of the experiment. For any system, the model equation is represented as 1 Y=A0+ΣAiXi+ΣAiXi2+ΣAijXiXj, where Y is the predicted response, A0 the intercept, Ai the linear coefficient, and Aij is the interaction coefficient. An analysis of variance (ANOVA) was performed, and three-dimensional response surface curves were plotted by Minitab 14 software to study the interaction among these factors.Table 2 Statistical analysis of Plackett–Burman design on EPS production
+
+Variables	Lower level (−1)	Higher level (+1)	Main effect	
+t value	
+p value	Confidence level (%)	
+Sweet potato, (X1)	5	15	4.13	16.35	<0.001	99.9	
+Yeast extract, (X2)	0.5	1.0	1.36	5.41	0.006	99.4	
+NH4SO4, (X3)	0.3	0.6	0.03	0.13	0.901	09.9	
+NaNO3, (X4)	0.3	0.6	−0.53	−2.11	0.102	89.8	
+NaCl, (X5)	0.1	0.3	−0.03	−0.13	0.901	09.9	
+KH2PO4, (X6)	0.1	0.3	0.40	1.58	0.189	81.1	
+MgSO4, (X7)	0.1	0.3	−0.13	−0.53	0.626	37.4	
+
+
+Results and discussion
+Screening of media components for optimization process
+Seven factors of media components were examined in the Plackett–Burman design experiments with twelve different trials, and maximum EPS production was obtained for trial number 6, while the lowest production was obtained for trial number 8. The regression coefficients, t-value, and confidence level are given in Table 2. The media components showed both positive and negative effects on EPS production. Statistical analysis (t values) demonstrated that sweet potato and yeast extract had significant positive influences on the EPS production with main effects of 4.13 and 1.36, respectively. The media components namely sweet potato (A) and yeast extract (B) were found to increase on EPS production at their high level. Whereas the media components namely (NH4)2SO4 (C), NaNO3 (D), NaCl (E), K2HPO4 (F), and MgSO4 (G) were found to decrease the EPS production at their higher level.
+
+With the calculated p values at 90 % confidence level being considered to be significant factor, sweet potato (confidence level = 100 %) and yeast extract (confidence level = 99.4 %) were identified as the significant media components for EPS production. Hence, the main effect of media components was also studied graphically using Pareto chart as shown in Fig. 1. In this result, sweet potato has the highest confidence level of 100 %, indicating that it is the key factor for EPS production.Fig. 1 Pareto plot for Plackett–Burman parameter estimates for seven medium components. A Sweet potato, B yeast extract, C NH4SO4, D NaNO3, E NaCl, F KH2PO4, and G MgSO4
+
+
+
+
+Media optimization using central composite design
+The final medium optimization and interaction amongst the screened factors were studied using CCD. All the experiments were carried out in replicates, and average EPS given in Table 3 was subjected to multiple linear regression analysis. The effect of sweet potato, yeast extract, pH, and time for EPS production was described in the form of second-order polynomial model in coded units (Eq. 2).Table 3 CCD matrix of independent variables used in RSM with corresponding experimental and predicted values of EPS production
+
+Std. order	A	B	C	D	EPS (g/L)	
+Experimental	Predicted	
+1	5	0.50	4.5	80	5.2	4.8	
+2	15	0.50	4.5	80	7.0	7.1	
+3	5	1.00	4.5	80	4.2	4.6	
+4	15	1.00	4.5	80	7.5	7.3	
+5	5	0.50	6.5	80	3.5	3.9	
+6	15	0.50	6.5	80	8.2	8.0	
+7	5	1.00	6.5	80	3.5	3.7	
+8	15	1.00	6.5	80	8.3	8.1	
+9	5	0.50	4.5	120	3.0	3.4	
+10	15	0.50	4.5	120	5.0	4.8	
+11	5	1.00	4.5	120	5.1	5.2	
+12	15	1.00	4.5	120	7.1	6.9	
+13	5	0.50	6.5	120	3.8	3.9	
+14	15	0.50	6.5	120	7.2	7.0	
+15	5	1.00	6.5	120	5.4	5.6	
+16	15	1.00	6.5	120	8.8	9.1	
+17	0	0.75	5.5	100	3.2	2.6	
+18	20	0.75	5.5	100	7.9	8.4	
+19	10	0.25	5.5	100	5.0	5.0	
+20	10	1.25	5.5	100	7.1	6.9	
+21	10	0.75	3.5	100	4.8	4.9	
+22	10	0.75	7.5	100	6.4	6.2	
+23	10	0.75	5.5	60	6.7	6.7	
+24	10	0.75	5.5	140	6.5	6.3	
+25	10	0.75	5.5	100	9.1	8.9	
+26	10	0.75	5.5	100	8.9	8.9	
+27	10	0.75	5.5	100	8.8	8.9	
+28	10	0.75	5.5	100	8.2	8.9	
+29	10	0.75	5.5	100	9.3	8.9	
+30	10	0.75	5.5	100	8.9	8.9	
+31	10	0.75	5.5	100	9.0	8.9	
+ 2 EPS(g/L)=8.88+1.45A+0.46B+0.32C-0.1D-0.85A2-0.73B2-0.84C2-0.59D2+0.10AB+0.45AC-0.24AD-0.02BC+0.48BD+0.33CD. 
+
+The student’s t test and F-test were performed to determine the significance of the model. The residuals analysis was performed to validate the model at 95 % confidence level. In this model, the R2 value of 0.979 indicated that the response model can explain 97.9 % of the total variations. In general, a regression model having an R2 value higher than 0.9 is considered to have a very high correlation (Haaland 1989). The value of the adjusted determination coefficient (Radj2 = 96 %) was also high enough to indicate the significance of the model. The model fitted well with EPS production, and the optimal values from the model were justified (p < 0.001). The ANOVA results given in Table 4 indicate that the linear and square terms in second-order polynomial model (Eq. 2) were highly significant (p < 0.005) and adequate to represent the relationship between EPS production.Table 4 Analysis of variance of second-order Polynomial model for effect of variable on EPS production
+
+Sources	Coefficient	DF	SS	MS	
+F value	
+p value	
+
+Model
+	8.88	
+14
+	
+119.772
+	
+8.5551
+	
+52.66
+	<0.001*	
+
+Linear
+		
+4
+	
+58.462
+	
+14.6154
+	
+89.96
+	<0.001*	
+A:Sweet potato	1.45	1	50.460	50.4600	310.59	<0.001*	
+B:Yeast extract	0.46	1	5.227	5.2267	32.17	<0.001*	
+C:pH	0.32	1	2.535	2.5350	15.60	0.001*	
+D:Time	−0.1	1	0.240	0.2400	1.48	0.242	
+
+Square
+		
+4
+	
+51.372
+	
+12.8431
+	
+79.05
+	<0.001*
+	
+Sweet potato*sweet potato	−0.85	1	21.097	21.0967	129.86	<0.001*	
+Yeast extract*Yeast extract	−0.73	1	15.403	15.4031	94.81	<0.001*	
+pH*pH	−0.84	1	20.487	20.4872	126.10	<0.001*	
+Time*time	−0.59	1	10.172	10.1723	62.61	<0.001*	
+
+2-Way interaction
+		
+6
+	
+9.938
+	
+1.6563
+	
+10.19
+	<0.001*	
+Sweet potato*yeast extract	0.1	1	0.160	0.1600	0.98	0.336	
+Sweet potato*pH	0.45	1	3.240	3.2400	19.94	<0.001*	
+Sweet potato*time	−0.24	1	0.902	0.9025	5.56	0.032*	
+Yeast extract*pH	−0.02	1	0.010	0.0100	0.06	0.807	
+Yeast extract*time	0.48	1	3.802	3.8025	23.41	<0.001*	
+pH*time	0.33	1	1.823	1.8225	11.22	0.004*	
+
+Error
+		
+16
+	
+2.599
+	
+0.1625
+			
+Lack-of-fit		10	1.891	0.1891	1.60	0.292	
+Pure error		6	0.709	0.1181			
+Total		30	122.371				
+
+R
+2
+	0.97						
+
+R
+2
+(adj)
+	0.96						
+* Significant model terms (p < 0.005)
+
+
+
+The 3D response surface or contour plots were employed to determine the interaction of the fermentation conditions and the optimum levels for EPS production. The shape of the contour plot is used to identify the interaction of variables. Strong interaction exists if contour lines are elliptical in shape, and no interaction is observed if contour lines are circular. The mutual effect of sweet potato and yeast extract is shown in Fig. 2a. Maximum EPS production was obtained at the middle level of the variables and there was no interaction between the variables as contour lines are circular in shape. Figure 2b shows the combined effect of sweet potato and pH on the response, and a significant interaction exists between sweet potato and pH. The amylase enzyme synthesized by A. pullulans strain can degrade the sweet potato starch 
+into simple carbohydrate molecules and be utilized for pullulan production as reported in previous studies (Manitchotpisit et al. 2011; Saha and Bothast 1993). As can be observed from Fig. 2c, EPS level increases as the time and sweet potato concentration increase till an optimal point is reached and EPS production decreases with further increase of time. Figure 2d shows that high and low level of yeast extract and pH have no significant effect on the EPS production and increased production was observed at middle level of yeast extract with pH. The interaction effect of yeast extract and time on EPS production is shown in Fig. 2e, while other factors were fixed as a constant. It was observed that the EPS production was reduced at low and high level, whereas increases towards middle level of yeast extract and time. Yeast extract in the production medium is essential nutrient to switch the morphological character (mycelial growth) of A. pullulans for pullulan synthesis. Figure 2f shows that strong interaction was observed between pH and time on EPS production as the contour is elliptical and maximum level was observed at middle level of pH and time. In other reports, optimal conditions for polymer production were obtained at an initial pH of 5.0 (Vijayendra et al. 2001), 6.5 (Roukas and Biliaderis 1995), and 7.5 (Auer and Seviour 1990). The different optimal initial pH values reported in the literature may be due to the different strains, compositions of fermentation media, and culture conditions used in those studies. Maximum EPS of 9.3 g/L obtained in this study has good agreement with the results reported by Moubasher and Wahsh (2014). In contrast to our results, maximum pullulan yield was obtained with sweet potato starch and hydrolysed potato starch waste as reported earlier (Goksungur et al. 2011; Wu et al. 2009). The variation in pullulan production may be due to type of A. pullulans strain, medium components, and process conditions.Fig. 2 Contour plots showing the combined effect of the medium variables (sweet potato, yeast extract, pH, and time) on EPS production by Aureobasidium pullulans
+
+
+
+
+Conclusion
+Statistical optimization was confirmed to be a powerful method for the optimization of the EPS production by A. pullulans MTCC 2195. The medium components, sweet potato and yeast extract, were screened to be the most significant components that influence the EPS production by PB experiment. CCD was proposed to study the interaction effects of fermentation condition. Maximum EPS production 9.3 g/L was obtained using the optimized condition of sweet potato 10 (%), yeast extract 0.75 (%), 5.5 pH, and time 100 h. Results of this showed that sweet potato may be used as an alternate carbon source for economical production of pullulan biopolymer.
+
+First and corresponding author wish to thank the Management and Staff of Biotechnology Department, Madha Engineering College, Kundrathur, Chennai for their support.
+
+Conflict of interest
+The authors declare that there is no conflict of interest on publication of this article.
+==== Refs
+References
+Aarthi N  Karna VR   Polyhydroxybutyrate production in Bacillus mycoides  DFC1 using response surface optimization for physico-chemical process parameters 3 Biotech 2012 2 287 296 
+Alok J  Abhishek DT  Tanweer A  Rajendra Y   Process optimization for manufacture of pearl millet-based dairy dessert by using response surface methodology (RSM) J Food Sci Technol 2013 50 367 373 10.1007/s13197-011-0347-7 24425929 
+Auer DPF  Seviour RJ   Influence of varying nitrogen sources on polysaccharide production by Aureobasidium pullulans  in batch culture Appl Microbiol Biotechnol 1990 32 637 644 10.1007/BF00164732 
+Baskar G  Renganathan S   Optimization of l -asparaginase production by Aspergillus terreus  MTCC 1782 using response surface methodology and artificial neural network-linked genetic algorithm Asia Pac J Chem Eng 2012 7 212 220 10.1002/apj.520 
+Chen W  Zhao Z  Chen SF  Li YQ   Optimization for the production of exopolysaccharide from Fomes fomentarius  in submerged culture and its antitumor effect in vitro  Bioresour Technol 2008 99 187 191 
+Cho EJ  Oh JY  Chang H  Yun JW   Production of exopolysaccharides by submerged mycelial culture of a mushroom Tremella funiformis  J Biotechnol 2006 1 129 140 10.1016/j.jbiotec.2006.06.013 16872706 
+Cupul WC  Abarca GH  Carrera DM  Vázquez RR   Enhancement of ligninolytic enzyme activities in a Trametes maxima –Paecilomyces carneus  co-culture: key factors revealed after screening using a Plackett–Burman experimental design Electr J Biotechnol 2014 17 114 121 10.1016/j.ejbt.2014.04.007 
+De Baets S  Du Laing S  Francois C  Vandamme EJ   Optimization of exopolysaccharide production by Tremella mesenterica  NRRL Y-6158 through implementation of fed-batch fermentation J Ind Microbiol Biotechnol 2002 4 181 184 10.1038/sj.jim.7000276 12355316 
+Deshpande MS  Rale VB  Lynch JM   Aureobasidium pullulans  in applied microbiology: a status report Enz Microb Technol 1992 14 514 527 10.1016/0141-0229(92)90122-5 
+Goksungur Y  Uzunogullari P  Dagbagli S   Optimization of pullulan production from hydrolysed potato starch waste by response surface methodology Carbohydr Polym 2011 83 1330 1337 10.1016/j.carbpol.2010.09.047 
+Haaland PD   Experimental design in biotechnology 1989 New York Marcel Dekker 
+Kim SW  Xu CP  Hwang HJ  Choi JW  Kim CW  Yun JW   Production and characterization of exopolysaccharides from an enthomopathogenic fungus Cordyceps militaris  NG 3 Biotechnol Progr 2003 2 428 435 10.1021/bp025644k 
+Kim HO  Lim JM  Joo JH  Kim SW  Hwang HJ  Choi JW  Yun JW   Optimization of submerged culture condition for the production of mycelial biomass and exopolysaccharides Agrocybe cylindracea  Bioresour Technol 2005 96 1175 1182 10.1016/j.biortech.2004.09.021 15683909 
+Lim JM  Kim SW  Hwang HJ  Joo JH  Kim HO  Choi JW  Yun JW   Optimization of medium by orthogonal matrix method for submerged mycelial culture and exopolysaccharide production in Collybia maculate  Appl Biochem Biotechnol 2004 2 159 170 10.1385/ABAB:119:2:159 15531786 
+Manitchotpisit P  Skory CD  Leathers TD  Lotrakul P  Eveleigh DE  Prasongsuk S  Punnapayak H   α-Amylase activity during pullulan production and α -amylase gene analyses of Aureobasidium pullulans  J Ind Microbiol Biotechnol 2011 38 1211 1218 10.1007/s10295-010-0899-y 21113644 
+Mayur J  Harshad P  Shilpa G  Akshaya G   Nutrient improvement for simultaneous production of exopolysaccharide and mycelial biomass by submerged cultivation of Schizophyllum commune  AGMJ-1 using statistical optimization 3 Biotech 2013 3 307 318 
+Moubasher H  Wahsh S   Pullulan production from Aureobsidium pullulans  by continuous culture Basic Res J Microbiol 2014 1 11 15 
+Plackett RL  Burman JP   The design of optimum multifactorial experiments Biometrika 1946 33 305 325 10.1093/biomet/33.4.305 
+Roukas T  Biliaderis CG   Evaluation of carob pod as a substrate for pullulan production by Aureobasidium pullulans Appl Biochem Biotechnol 1995 55 27 43 10.1007/BF02788746 
+Saha BC  Bothast RJ   Starch conversion by amylases from Aureobasidium pullulans  J Ind Microbiol 1993 12 413 416 10.1007/BF01569674 
+Sharmila G  Muthukumaran C  Nayan G  Nidhi B   Extracellular biopolymer production by Aureobasidium pullulans  MTCC 2195 using jackfruit seed powder J Polym Environ 2013 21 487 494 10.1007/s10924-012-0459-9 
+Sharmila G  Nidhi B  Muthukumaran C   Sequential statistical optimization of red pigment production by Monascus purpureus  (MTCC 369) using potato powder Ind Crop Prod 2013 44 158 164 10.1016/j.indcrop.2012.11.007 
+Srikanth S  Swathi M  Tejaswini M  Sharmila G  Muthukumaran C  Jaganathan MK  Tamilarasan K   Statistical optimization of molasses based exopolysaccharide and biomass production by Aureobasidium pullulans  MTCC 2195 Biocatal Agric Biotechnol 2014 3 7 12 
+Vijayendra SVN  Bansal D  Prasad MS  Nand K   Jaggery: a novel substrate for pullulan production by Aureobasidium pullulans  CFR-77 Process Biochem 2001 37 359 364 10.1016/S0032-9592(01)00214-X 
+Wang YX  Lu ZX  Lu FX   Media optimization for exopolysaccharide by Pholiota squarrosa  (Pers. Ex Fr.) Quel. AS 5.245 in submerged fermentation Chin J Biotechnol 2004 20 414 422 
+Wang Z  Quan Y  Zhou F   Optimization of medium composition for exopolysaccharide production by Phellinus nigricans  Carbohydr Polym 2014 105 200 206 10.1016/j.carbpol.2014.01.099 24708970 
+Wu SJ  Jin ZY  Tong QY   Sweet potato: a novel substrate for pullulan production by Aureobasidium pullulans  Carbohydr Polym 2009 76 645 649 10.1016/j.carbpol.2008.11.034 
+Xiao JH  Chen DX  Liu JW  Liu ZL  Wan WH  Fang N  Xiao Y  Qi Y  Liang ZQ   Optimization of submerged culture requirements for the production of mycelial growth and exopolysaccharide by Cordyceps jiangxiensis  JXPJ 0109 J Appl Microbiol 2004 96 1105 1116 10.1111/j.1365-2672.2004.02235.x 15078528 
+Zhou X  Cheng XJ  Liu WF  Li J  Ren LH  Dang QF  Feng C  Chen XG   Optimization and characteristics of preparing chitosan microspheres using response surface methodology J Appl Polym Sci 2013 127 4433 4439 10.1002/app.38003

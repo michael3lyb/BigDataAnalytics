@@ -1,0 +1,50 @@
+
+==== Front
+Ann Clin Microbiol AntimicrobAnnals of Clinical Microbiology and Antimicrobials1476-0711BioMed Central London 1476-0711-4-71585048310.1186/1476-0711-4-7ResearchMorphological and growth altering effects of Cisplatin in C. albicans using fluorescence microscopy Kesavan Chandrasekhar 1chandrasekhar2@netzero.comRaghunathan Malathi 2r_malathi@hotmail.comGanesan Natarajan 3ng6@georgetown.edu1 Musculoskeletal Disease Center, JLP VA Medical Center, Loma Linda, CA 92354, USA2 Department of Genetics, Dr. ALM Post Graduate Institute of Basic Medical Sciences, Chennai-600 113, India3 240 Reiss Science Bldg. Georgetown University, 37th & O Sts NW, Washington DC – 20057, USA2005 25 4 2005 4 7 7 24 2 2005 25 4 2005 Copyright © 2005 Kesavan et al; licensee BioMed Central Ltd.2005Kesavan et al; licensee BioMed Central Ltd.This is an Open Access article distributed under the terms of the Creative Commons Attribution License (), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+
+Changes in morphology and growth curve of Candida albicans in response to treatment by Cisplatin has been studied using fluorescence staining with ethidium bromide. Treatment with Cisplatin was found to markedly inhibit hyphae and ovoid growth as revealed by ethidium bromide staining of drug treated cells. These changes were concomitant with inhibitory effects on the growth curve with respect to untreated cells
+
+Presence of Cisplatin not only caused suppression in the limiting values in the growth curve, but also caused a slight left shift in the EC50 values. Some of the ovoid cells undergoing poisoning with cisplatin were found to be unusually enlarged before undergoing their natural fate thus suggesting formation of similar cytotoxic end products with DNA.
+==== Body
+Introduction
+Candida albicans is a yeast pathogen that causes mild, chronic, superficial systemic infections in immunocompromised and cancer patients [1-3]. Research, worldwide is broadly focused on 1) search of new targets in C. alibcans, 2) Screening inhibitory activities with therapeutic agents, and 3) designing or modifying novel agents, to overcome treatment resistance [4]. C. alibcans has been shown to harbor a self splicing group-I intron in the nuclear 25s rRNA genes [5]. Presence of this gene in C. alibcans, but not in the human genome, suggests that splicing inhibitors could potentially act as alternate targets in controlling the proliferation of fungal pathogens. Recent screening studies using disk diffusion have shown that cis-diamminedichloro platinum (Cisplatin), a well-established antitumor agent, inhibits the growth of C. alibcans at lower concentrations [6]. Despite its prevalent use in cancer treatment, very little work has been done [7-10] to document the effects of Cisplatin and related metal complexes in controlling the proliferation behavior of C. alibcans. With the molecular mechanisms remaining largely unknown, this provided us a basis to study the effects of Cisplatin treatment on the morphology and growth curve of C. alibcans. Morphological changes in Candida can be followed by direct fluorescence staining with suitable dyes to selectively visualize different parts/aspects of cellular activities [11-13]. Though the use of Ethidium Bromide for fluorescence staining is well known, there is no report to show the use of this technique in studying the morphology of Candida, especially in response to treatment with anticancer agents such as Cisplatin. Herein, we report the morphological changes of C. alibcans in response to cisplatin using fluorescence microscopy with ethidium bromide staining.
+
+Materials and methods
+Media and Inoculums
+Yeast isolates (clinical strains) were obtained from patients, Royapettah Hospital, Chennai. Sub-cultured isolates were maintained in Sabouraud dextrose agar (B.B.L, Cockeysville, MD) at 1–5 × 106 CFU/10 ml media. 30 μl of each sample (log phase) was used for slide preparation to study the morphological changes.
+
+Drug preparation
+A 2 mg/ml stock of Cisplatin (TNDPL, Chennai) was prepared in sterile Millipore water. Stock was diluted to 60 μg/10 ml culture for treatment purposes.
+
+Staining
+Ethidium bromide staining was performed using a freshly prepared stock of ethidium bromide (1 mg/ml water) from which 50 μl/100 ml concentration was used for staining the slides. Gram staining was performed from commercially available kits as per instructions.
+
+Morphological studies using Fluorescence Microscopy
+30 μl of cultured C. alibcans (Drug treated/non-treated cells) was taken and spread over the clean glass slide and dried at 37°C for 5 minutes. Slides were dipped into the EtBr staining solution for 30–40 seconds followed by immersion in water for 15–20 seconds to remove excess stain. Gram staining was performed in parallel on a similar set of slides to validate the results. Both the set of slides were viewed using NFM under the 100× magnification.
+
+Results and Discussion
+Treatment of C. alibcans with Cisplatin was found to markedly inhibit hyphae and ovoid growth (Fig. 2) as revealed by ethidium bromide staining of drug treated cells. This was in contrast to the controls showing markedly branched hyphae, with budding characteristics (Fig. 1). The ovoid cells of Cisplatin treated C. alibcans showed an increased uptake of the ethidium bromide stain (red color) in contrast to the untreated counterparts (yellowish orange), thus pointing to drug induced poisoning and death of treated cells. These changes were concomitant with inhibitory effects on the growth curve with respect to untreated cells (Fig. 3). Presence of Cisplatin not only caused suppression in the limiting growth values but caused a slight left shift in the EC50 values, which remains to be studied further. Some of the ovoid cells undergoing poisoning with cisplatin were found to be unusually enlarged before undergoing their natural fate (Fig. 2). This is known to be one of the typical effects of poisoning with cisplatin in case of tumor cell lines as well thus suggesting formation of similar cytotoxic end products [14]. Cisplatin in water forms a diaqua species of Pt+2 due to the fast leaving Cl- ions. This could lead further to host of reactions in the cytoplasm before forming end products with DNA. It is also possible that cisplatin exerts its activity through other secondary response mechanisms. Further studies using RT-PCR will elucidate 1) the role of the binding affinity of cis-DDP to certain RNA species in cytotoxicity against C. albicans, for example, group-I intron ribozyme, known in many human diseases causing pathogens and a potential target site for therapeutic agents. 2) Whether cis-DDP inhibits the C. alibcans growth through penetration into the cell or some secondary response.
+
+Figure 1 Photograph showing morphology of Candida albicans in the absence of cisplatin (6 ug/ml), stained with ethidium bromide and gram stain.
+
+Figure 2 Photograph showing morphology of Candida albicans in the presence or absence of cisplatin (6 ug/ml), stained with ethidium bromide and gram stain.
+
+Figure 3 Growth curve of Candida albicans in the presence/absence of Cisplatin (6 μg/ml). Curve fitting of data points was performed using non-linear regression(sigmoidal curve): GraphPad Prism Version 3.02.
+
+Acknowledgements
+K.C thanks the Lady Tata Memorial Trust for the fellowship in pursuing this research work.
+==== Refs
+Calderone RA Fonzi WA  Virulence factors of Candida albicans Trends Microbiol 2001 9 327 335 11435107 10.1016/S0966-842X(01)02094-7 
+Wall SD Jones B  Gastrointestinal tract in the immunocompromised host: opportunistic infections and other complications Radiology 1992 185 327 335 1410332 
+Saral R  Candida and Aspergillus infections in immunocompromised patients: an overview Rev Infect Dis 1991 13 487 492 1866554 
+St GV  Membrane transporters and antifungal drug resistance Curr Drug Targets 2000 1 261 284 11465075 10.2174/1389450003349209 
+Miletti KE Leibowitz MJ  Pentamidine inhibition of group I intron splicing in Candida albicans correlates with growth inhibition Antimicrob Agents Chemother 2000 44 958 966 10722497 10.1128/AAC.44.4.958-966.2000 
+Chandrasekar K Shyla JH Malathi R  Can antitumor platinum compounds be effective against Candida albicans?--A screening assay using disk diffusion method J Clin Microbiol 2000 38 3905 11184175 
+Watanabe T Takano M Ogasawara A Mikami T Kobayashi T Watabe M Matsumoto T  Anti-Candida activity of a new platinum derivative Antimicrob Agents Chemother 2000 44 2853 2854 10991871 10.1128/AAC.44.10.2853-2854.2000 
+Sarachek A Henderson L Wilkens WE  Evaluation of the genotoxic spectrum of cisplatin for Candida albicans Microbios 1992 72 183 201 1488020 
+Sarachek A Henderson LA  Modification of responses of Candida albicans to cisplatin by membrane damaging antimycotic agents Mycoses 1991 34 177 182 1749398 
+Moussa NM Ghannoum MA Whittaker PA el Ezaby MS Quraman S  Effects of cisplatin and two novel palladium complexes on Candida albicans Microbios 1990 62 165 178 2195302 
+Bernhardt H Knoke M Bernhardt J  Changes in Candida albicans colonization and morphology under influence of voriconazole Mycoses 2003 46 370 374 14622384 10.1046/j.0933-7407.2003.00908.x 
+Hopfer RL Sparks SD Cox GM  The use of flow cytometry as a tool for monitoring filament formation of fungi Med Mycol 2001 39 103 107 11270396 
+Aoki S Ito-Kuwa S Nakamura Y Masuhara T  Mitochondrial behaviour during the yeast-hypha transition of Candida albicans Microbios 1989 60 79 86 2691864 
+Otto AM Paddenberg R Schubert S Mannherz HG  Cell-cycle arrest, micronucleus formation, and cell death in growth inhibition of MCF-7 breast cancer cells by tamoxifen and cisplatin J Cancer Res Clin Oncol 1996 122 603 612 8879258 10.1007/BF01221192

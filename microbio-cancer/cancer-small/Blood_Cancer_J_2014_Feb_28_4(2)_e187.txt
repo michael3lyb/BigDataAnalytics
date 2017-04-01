@@ -1,0 +1,113 @@
+
+==== Front
+Blood Cancer JBlood Cancer JBlood Cancer Journal2044-5385Nature Publishing Group bcj2014910.1038/bcj.2014.924583533Letter to the EditorExpression of CD25 antigen on CD34+ cells is an independent predictor of outcome in late-stage MDS patients treated with azacitidine Letter to the EditorMiltiades P 1Lamprianidou E 1Vassilakopoulos T P 2Papageorgiou S G 3Galanopoulos A G 4Vakalopoulou S 5Garypidou V 5Papaioannou M 6Hadjiharissi E 7Pappa V 3Papadaki H A 8Spanoudakis E 1Tsatalas K 1Kotsianidis I 1*on behalf of the Hellenic MDS Study Group1 Department of Hematology, Democritus University of Thrace, Alexandroupolis, Greece2 Department of Hematology, Laikon General Hospital, National and Kapodistrian University of Athens, Athens, Greece3 Second Department of Internal Medicine, Hematology Unit, University General Hospital Atticon, Athens, Greece4 Department of Clinical Hematology, G. Gennimatas Hospital, Athens, Greece5 Second Propedeutic Department of Internal Medicine, Aristotle University of Thessaloniki, Hippokration Hospital, Thessaloniki, Greece6 Department of Haematology, Aristotelion University of Thessaloniki, AHEPA Hospital, Thessaloniki, Greece7 Department of Hematology, Theageneion Hosp. of Thessaloniki, Thessaloniki, Greece8 Department of Hematology, University Hospital of Heraklion, Heraklion, Greece* E-mail: ikotsian@med.duth.gr or jankots@yahoo.gr02 2014 28 02 2014 1 2 2014 4 2 e187  Copyright © 2014 Macmillan Publishers Limited2014Macmillan Publishers LimitedThis work is licensed under a Creative Commons Attribution 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by/3.0/
+==== Body
+The expression of CD25 antigen, the α-chain of the interleukin-2 receptor (IL-2Rα), has been repeatedly shown to be associated with poor outcome in adults with either acute myelogenous (AML)1, 2, 3 or lymphoblastic leukemia.4, 5 To explain this finding mechanistically, it has been hypothesized that CD25+ AML blasts are enriched in chemoresistant leukemia stem cells (LSCs), as they bear an LSC-like molecular signature,2 are quiescent and can establish AML in xenograft models.6
+
+Blasts from patients with myelodysplastic syndrome-related AML (AML-MDS) appear to express CD25 more frequently compared with de novo AML patients,7 but although late-stage MDS is typically chemoresistant, the prognostic relevance of CD25 has not been investigated yet. On the basis of the above, and as there is paucity of a serviceable biomarker of outcome in MDS patients treated with azacitidine, we addressed the prognostic impact of CD25 expression in a cohort of 61 patients with IPSS intermediate-2/high-risk MDS and chronic myelomonocytic leukemia-2 managed between June 2009 to September 2013 at eight Greek institutions in a non-clinical trial setting.
+
+Following Institutional Review Board approval, bone marrow samples were obtained before and 15 days (D15) after treatment initiation. All patients had an Eastern Cooperative Oncology Group (ECOG) performance status of 0–2 and received azacitidine in a non-clinical trial setting at an initial dose of 75 mg/m2 SC for 7 days on 28-day cycles. Granulocyte colony-stimulating factors and erythropoiesis-stimulating agents were used at the discretion of the treating doctor. Response to therapy was evaluated using the International Working Group (IWG) Response Criteria for MDS.8 CD25 expression was assessed by 4-color flow cytometry on total CD34+ blasts, the compartment of committed progenitors (Lin−CD38+CD34+) and LSCs (Lin−CD38−CD34+, Supplementary Materials and Methods). Positivity was defined as a CD25 expression of ⩾20% above the isotype control. Statistical comparisons were performed by using χ2, Mann–Whitney U-test, and repeated measures analysis of variance or paired t-test as appropriate, and survival analysis with Kaplan–Meier and log-rank test. Overall survival (OS) was defined as the time from azacitidine initiation to death from any cause and event-free survival (EFS) as the time from azacitidine initiation to disease progression, relapse or death. Multivariate survival analysis was based on Cox's proportional hazards model using a backward stepwise selection procedure with entry and removal criteria of P=0.05 and P=0.10, respectively.
+
+The cohorts of CD25− and CD25+ patients were well balanced for most known predictive factors and characteristics, except sex (Supplementary Table S1). The median follow-up time from the onset of azacitidine for all patients was 37.3 months and the median number of completed cycles was 5 (1–37). No difference in overall response rate was observed in relation to CD25 status (P=0.4), although the complete response (CR) rate in CD25− patients (33%) was two times higher compared with CD25+ subjects (16%). In univariate analysis, only CD25 status and heavy transfusion requirements, defined as ⩾4 units of red blood cells (RBC) per month, were predictors for outcome (Figures 1a and b, Table 1 and Supplementary Table S2). We also applied the prognostic score proposed by Itzykson et al.9 in 58 evaluable patients. Three groups with different outcome were identified with marginally statistically significant median OS (P=0.08) and EFS (P=0.06), potentially because only 4 (7%) patients were stratified as low risk (data not shown), indicating, however, that despite its limited size, our patient sample was representative in comparison with the existing literature.
+
+Compared with CD25+ individuals, the CD25− ones enjoyed significantly longer median OS (16.2 vs 8.8 months, respectively, P=0.026) and median EFS (13.6 vs 6.7 months, P=0.023). Also, heavily transfused patients had significantly worse OS (7.2 vs 11 months, P=0.029) and EFS (6.3 vs 10.4 months, P=0.028) compared with those requiring <4 units of RBC per month. Multivariate analysis confirmed the independent prognostic power of CD25 and transfusion requirements for both OS and EFS (P=0.01 and P=0.008 for both CD25 and transfusion requirements, Table 1 and Supplementary Table S2). A simple scoring system was formed based on these two parameters by attributing one point to each of CD25 positivity and transfusions of ⩾4 RBC units/month (Figure 1c). Patients were stratified in three groups with significantly different median OS (P=0.002) and EFS (P=0.001), namely, low risk (score 0, OS:18.8 months and EFS:16.2 months, n=23), intermediate risk (score 1, OS:10 months and EFS:8.8 months, n=30) and high risk (score 2, OS:5.1 months and EFS:4.3 months, n=8).
+
+The average expression of CD25 in CD34+ blasts of all patients was 21.6±3%. Compared with committed progenitors, LSCs displayed significantly higher CD25 expression (19.4±3% vs 24.1±3.6%, respectively, P=0.027, Supplementary Figure S1). We also assessed the kinetics of CD25 expression in 17 patients during azacitidine treatment. On day 15 of the first cycle, CD25 was significantly downregulated in CD34+ cells (P=0.027), but we weren't able to find any significant correlation of CD25 downregulation with outcome, potentially due to the limited patient number. Interestingly, CD25 was significantly downregulated in the LSC compartment (49.3±7.9% vs 42.7±7.4%, P=0.024), but remained stable in committed progenitors of the same patients (33.6±6.6% vs 28.2±5.6%, P=0.14), indicating a particular sensitivity of the CD25+ subset of LSCs in azacitidine (Supplementary Figure S2). Of note, we observed that despite the marked downregulation of CD25 in CD34+ cells, its expression on T cells of the same patient was not affected by azacitidine therapy (Supplementary Figure S3). Although this phenomenon is not readily interpretable, the above differential effect of azacitidine suggests the presence of distinct mechanisms of DNA methylation modulation in these cell types, such as targeting cell-type-specific regulatory elements important for CD25 expression. Alternatively, CD25 may merely represent a surrogate marker of an immature leukemic subpopulation sensitive to hypomethylating agents, which is downregulated via the epigenetic modulation of other unrelated pathways.
+
+Both the revised IPSS10 and the GFM scoring system9 appear to provide prognostic discrimination in MDS patients treated with azacitidine. However, there is lack of a serviceable, widely accepted biomarker of response and/or outcome that can offer a valid estimation of the expected benefit from azacitidine and help to tailor treatment. Our findings reveal an independent prognostic value of CD25 in such patients. Moreover, we show that a simple prognostic system based on only two parameters, that is, CD25 expression and transfusion dependency, can categorize three groups of patients with significantly different outcome.
+
+The poor outcome of CD25+ AML patients has been attributed to the chemoresistant properties of the LSC-like, CD25+ myeloblasts, a fact illustrated on the higher rates of both induction failure2 and relapse.1, 3 By contrast, we observed comparable response rates to azacitidine among CD25-positive and -negative cases, while CD25+ myeloblasts were equally reduced on day 15 in both responding and not responding patients (data not shown). This finding is not surprising as the achievement of CR after azacitidine therapy is not an obligate state for better outcome in late-stage MDS. Both the AZA-001 trial and a subsequent analysis of the data argued that all response categories, including stable disease, were associated with a significantly reduced death risk.11, 12 In addition, the lower EFS of CD25+ patients indicates that the persistence of azacitidine-resistant CD25+ LSCs is potentially responsible for the progression or relapse of the disease in these patients. In line with this scenario, it has been recently demonstrated that although the size of the LSC pool correlates with the response to azacitidine, LSCs cannot be eradicated even in responding patients.13
+
+The biological role of CD25 expression in AML remains unknown and the effect of IL-2 on the proliferative status of CD25+ blasts is also controversial.1 CD25 may impart environmental signals, whereas high plasma levels of enzymatically cleaved, soluble CD25 in AML may suppress the antitumor response via competition with the lymphocyte surface CD25 for IL-2 and have long been shown to be associated both with the burden and severity of the disease.14
+
+In conclusion, we demonstrate for the first time that CD25 expression status, combined or not with the transfusion requirements, serves as an easy-to-use predictor for outcome in late-stage MDS patients treated with azacitidine, a finding that deserves validation in larger cohorts. Moreover, the differential expression and epigenetic modulation of CD25 in the LSC compartment provide the rationale for the investigation of therapeutic strategies using monoclonal antibody targeting combined with epigenetic agents.15
+
+Supplementary Information accompanies this paper on Blood Cancer Journal website (http://www.nature.com/bcj)
+
+The authors declare no conflict of interest.
+
+Supplementary Material
+Supplementary Table S1 Click here for additional data file.
+
+ Supplementary Table S2 Click here for additional data file.
+
+ Supplementary Figure S1 Click here for additional data file.
+
+ Supplementary Figure S2 Click here for additional data file.
+
+ Supplementary Figure S3 Click here for additional data file.
+
+ Supplementary Materials and Methods Click here for additional data file.
+
+ Figure 1 Prognostic parameters for outcome in our MDS cohort. (a) OS and EFS in relation to CD25 positivity status. (b) OS and EFS in relation to transfusion requirements. (c) Prognostic scoring system for outcome based on CD25 positivity (one point) and transfusion requirements of ⩾4 RBC units/month (one point). Kaplan–Meier curves for low (score 0), intermediate (score 1) and high (score 2) risk patients are shown.
+
+Table 1 Prognostic factors for overall survival
+ 	Univariate analysis	Multivariate analysis	
+ 	Median OS	P-value	HR (95% CI)	P-value	
+Age	 	0.73	 	 	
+ >65	10.4	 	 	 	
+ <65	16.8	 	 	 	
+ 	 	 	 	 	
+Sex	 	0.79	 	 	
+ Male	11.3	 	 	 	
+ Female	11.1	 	 	 	
+ 	 	 	 	 	
+CD25 status	 	0.026	 	0.01	
+ Positive (>20%)	8.8	 	2.15 (1.2–3.9)	 	
+ Negative (<20%)	16.2	 	1	 	
+ 	 	 	 	 	
+ANC ( × 109/l)	 	0.47	 	 	
+ ⩾1	10.4	 	 	 	
+ <1	12.5	 	 	 	
+ 	 	 	 	 	
+Platelets ( × 109/l)	 	0.21	 	 	
+ ⩾100	13.1	 	 	 	
+ <100	10.0	 	 	 	
+ 	 	 	 	 	
+IPSS	 	0.61	 	 	
+ Intermediate-2	12.5	 	 	 	
+ High	10.4	 	 	 	
+ 	 	 	 	 	
+WPSS	 	0.77	 	 	
+ High	13.1	 	 	 	
+ Very high	10.4	 	 	 	
+ 	 	 	 	 	
+IPSS-R	 	0.69	 	 	
+ Intermediate	35.4	 	 	 	
+ High	11.6	 	 	 	
+ Very high	10.4	 	 	 	
+ 	 	 	 	 	
+IPSS-R cytogenetic risk	 	0.72	 	 	
+ Good	10	 	 	 	
+ Intermediate	9.5	 	 	 	
+ Poor	12.8	 	 	 	
+ Very poor	11.3	 	 	 	
+ 	 	 	 	 	
+PB blasts	 	0.63	 	 	
+ Present	8.8	 	 	 	
+ Absent	13.1	 	 	 	
+ 	 	 	 	 	
+BM blasts	 	0.9	 	 	
+ >15%	10	 	 	 	
+ ⩽15%	11.3	 	 	 	
+ 	 	 	 	 	
+Transfusions ⩾4 per month	 	0.029	 	0.01	
+ Yes	7.2	 	2.16 (1.2–4)	 	
+ No	11	 	1	 	
+Abbreviations: ANC, absolute neutrophil count; BM, bone marrow; CI, confidence interval; HR, hazard ratio; IPSS-R, revised international prognostic scoring system; OS, overall survival; PB, peripheral blood; WPSS, WHO classification-based prognostic scoring system.
+==== Refs
+Terwijn M Feller N van Rhenen A Kelder A Westra G Zweegman S  Interleukin-2 receptor alpha-chain (CD25) expression on leukaemic blasts is predictive for outcome and level of residual disease in AML Eur J Cancer 2009 45 1692 1699 19321337 
+Gonen M Sun Z Figueroa ME Patel JP Abdel-Wahab O Racevskis J  CD25 expression status improves prognostic risk classification in AML independent of established biomarkers: ECOG phase 3 trial, E1900 Blood 2012 120 2297 2306 22855599 
+Cerny J Yu H Ramanathan M Raffel GD Walsh WV Fortier N  Expression of CD25 independently predicts early treatment failure of acute myeloid leukaemia (AML) Br J Haematol 2013 160 262 266 23116454 
+Nakase K Kita K Miwa H Nishii K Shikami M Tanaka I  Clinical and prognostic significance of cytokine receptor expression in adult acute lymphoblastic leukemia: interleukin-2 receptor alpha-chain predicts a poor prognosis Leukemia 2007 21 326 332 17205058 
+Paietta E Racevskis J Neuberg D Rowe JM Goldstone AH Wiernik PH  Expression of CD25 (interleukin-2 receptor alpha chain) in adult acute lymphoblastic leukemia predicts for the presence of BCR/ABL fusion transcripts: results of a preliminary laboratory analysis of ECOG/MRC Intergroup Study E2993. Eastern Cooperative Oncology Group/Medical Research Council Leukemia 1997 11 1887 1890 9369422 
+Saito Y Kitamura H Hijikata A Tomizawa-Murasawa M Tanaka S Takagi S  Identification of therapeutic targets for quiescent, chemotherapy-resistant human leukemia stem cells Sci Transl Med 2010 2 17ra19 
+Rosenfeld C Kantarjian H  Is myelodysplastic related acute myelogenous leukemia a distinct entity from de novo acute myelogenous leukemia? Potential for targeted therapies Leuk Lymphoma 2001 41 493 500 11378567 
+Cheson BD Greenberg PL Bennett JM Lowenberg B Wijermans PW Nimer SD  Clinical application and proposal for modification of the International Working Group (IWG) response criteria in myelodysplasia Blood 2006 108 419 425 16609072 
+Itzykson R Thepot S Quesnel B Dreyfus F Beyne-Rauzy O Turlure P  Prognostic factors for response and overall survival in 282 patients with higher-risk myelodysplastic syndromes treated with azacitidine Blood 2011 117 403 411 20940414 
+Mishra A Corrales-Yepez M Ali NA Kharfan-Dabaja M Padron E Zhang L  Validation of the revised International Prognostic Scoring System in treated patients with myelodysplastic syndromes Am J Hematol 2013 88 566 570 23605934 
+Fenaux P Mufti GJ Hellstrom-Lindberg E Santini V Finelli C Giagounidis A  Efficacy of azacitidine compared with that of conventional care regimens in the treatment of higher-risk myelodysplastic syndromes: a randomised, open-label, phase III study Lancet Oncol 2009 10 223 232 19230772 
+Gore SD Fenaux P Santini V Bennett JM Silverman LR Seymour JF  A multivariate analysis of the relationship between response and survival among patients with higher-risk myelodysplastic syndromes treated within azacitidine or conventional care regimens in the randomized AZA-001 trial Haematologica 2013 98 1067 1072 23585522 
+Craddock C Quek L Goardon N Freeman S Siddique S Raghavan M  Azacitidine fails to eradicate leukemic stem/progenitor cell populations in patients with acute myeloid leukemia and myelodysplasia Leukemia 2013 27 1028 1036 23223186 
+Cimino G Amadori S Cava MC De Sanctis V Petti MC Di Gregorio AO  Serum interleukin-2 (IL-2), soluble IL-2 receptors and tumor necrosis factor-alfa levels are significantly increased in acute myeloid leukemia patients Leukemia 1991 5 32 35 1999955 
+Majeti R  Monoclonal antibody therapy directed against human acute myeloid leukemia stem cells Oncogene 2011 30 1009 1019 21076471

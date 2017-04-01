@@ -1,0 +1,6 @@
+*wiki-*-pages-articles-multistream.xml*
+metastore_db/
+derby.log
+wp-data/
+model_ng.save/
+
