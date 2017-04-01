@@ -4,15 +4,6 @@
 
 This project contains code for downloading CommonCrawl data from Amazon S3 as specified on the [CommonCrawl website](http://commoncrawl.org/the-data/get-started/).
 
-Useful links:
+Did ETL jobs on PubMed and Common Crawl data using Spark (Python).  Load and transform WET files as Spark Dataframe.
 
-[Joblib - Python code in parallel](https://pythonhosted.org/joblib/)
-
-
-[edX course using PySpark](https://www.edx.org/course/introduction-apache-spark-uc-berkeleyx-cs105x)
-
-
-[edX course using PySpark for Large Scale ML](https://courses.edx.org/courses/BerkeleyX/CS190.1x/1T2015/info)
-
-
-[mrjob main page](https://pythonhosted.org/mrjob/)
+Built a bio-related article classifier based on PubMed data by using Naive Bayes and Logistic Regression(MLlib).

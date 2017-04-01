@@ -1,0 +1,11 @@
+# Quick summary of WARC - WAT - WET
+
+There a three basic file formats available from the common crawl: WARC, WAT and WET.
+
+* **WARC** files contain a number of WARC headers, followed by the full HTTP response by the server (both HTTP response headers and HTTP payload). The WARC headers are extremely easy to parse (it's a flat list of key: value pairs). The [standard describing the WARC headers](http://bibnum.bnf.fr/WARC/) is available online and pretty short. A few of these headers could be relevant to our applications (date of crawl, content type), and we'll definitely have to extract the URL, but other than that it's mostly just internal document identifiers.
+* **WET** files have essentially the same WARC headers as the WARC files (although some are removed), but they only contain the plaintext extracted from the HTML page instead of the full HTTP content. They probably contain all we need for text-based classification, and they are significantly smaller than full WARC files. Again, the parsing is straightforward.
+* **WAT** contain a JSON-encoded tree that stores essential page information: WARC headers, HTTP response headers, and text/alt-text/url of links and images extracted from the page. This mostly seems useful for building graph representations of the crawl, since none of the content text is included. I don't think WAT files will be very relevant for what we want to do.
+
+Although the files are easy to parse, they are very large so they're probably not that trivial to read efficiently. There are a few python libraries to read WARC files. Many of them are old, including the reference implementation, [warc](https://github.com/internetarchive/warc), which seems to be unmaintained.
+
+The WARC to WET transformation is explained on [this Google Groups discussion](https://groups.google.com/forum/#!topic/common-crawl/imv4hlLob4s). It is implemented using Hadoop. The discussion also hints at possible Unicode issues, which may be a problem when dealing with rare languages.
